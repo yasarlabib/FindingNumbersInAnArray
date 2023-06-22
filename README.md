@@ -1,5 +1,5 @@
 # FindingNumbersInAnArray
-This program will allow the user to enter in numbers and whether a number is inside of the array or not.
+This program will allow the user to enter in numbers and check whether a number is inside of the array or not.
 The user may choose the size of the array.
 The user inputs all of the values, loading up the array.
 The program prints out the unsorted array.
